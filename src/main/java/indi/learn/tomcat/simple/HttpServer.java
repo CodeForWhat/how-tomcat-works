@@ -1,4 +1,4 @@
-package indi.learn.simple;
+package indi.learn.tomcat.simple;
 
 import java.io.IOException;
 import java.net.InetAddress;
