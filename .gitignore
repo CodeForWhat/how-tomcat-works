@@ -19,4 +19,4 @@ target/*
 bin/*
 
 # ideal 
-.ideal/*
+.idea/*
